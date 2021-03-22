@@ -1,0 +1,16 @@
+[ 
+{ 
+id: 1, 
+startTime: "2021-03-18", 
+finishTime: "2021-03-19", 
+name: "Курсы", 
+description: "описание" 
+}, 
+{ 
+id: 2, 
+startTime: "2021-03-19", 
+finishTime: "2021-03-19", 
+name: "Что-то еще", 
+description: "описание" 
+} 
+]
